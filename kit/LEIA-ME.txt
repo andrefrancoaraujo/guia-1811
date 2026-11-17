@@ -1,0 +1,25 @@
+KIT DE MARCA DOS VÍDEOS · Boost Research / André Franco
+ABCVM Summit, 18/11/2026
+
+O QUE TEM AQUI
+- fontes/        Figtree (Black, ExtraBold, Bold, SemiBold, Medium, Regular). Licença livre OFL. Instale todas antes de abrir o editor.
+- paleta-boost.png         as cores com código
+- cores.txt                os códigos para copiar (HEX e RGB)
+- exemplo-legenda-*.png    como a legenda fica em tela cheia e em tela dividida (1080x1920)
+- legenda-modelo-transparente.png  sobreponha no editor para conferir tamanho e posição
+
+LEGENDA (Reel 9:16, 1080x1920)
+- Fonte: Figtree Black.
+- Tamanho: 70 em tela cheia; 46 quando a tela estiver dividida (documento em cima, pessoa embaixo).
+- Cor: branco #F5F5F5, com contorno preto #070C0B de 9 px (7 px na tela dividida).
+- Destaque: UMA palavra por bloco em verde #43E3C8. Prioridade: número, nome próprio, palavra-chave da frase.
+- Blocos curtos: 2 a 4 palavras por vez, palavra por palavra no ritmo da fala.
+- Posição: centralizada, em torno de 77% da altura (y 1470). Largura máxima 940 px.
+- Tela dividida: legenda dentro do painel de baixo, até 760 px. Nunca atravessar a divisória.
+- Sem legenda em cima de transição em preto e branco (making of).
+- Vermelho #FF4444 só para dado negativo (queda, prejuízo). Fora isso, nada de vermelho, amarelo ou laranja.
+
+TEXTO
+- Português com acento. "bitcoin" com b minúsculo. Sem travessão.
+
+YOUTUBE (16:9) segue as mesmas cores e a mesma fonte.

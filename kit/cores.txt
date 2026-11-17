@@ -1,0 +1,11 @@
+Boost Research · cores dos vídeos (Reels e YouTube)
+
+Preto Boost      #070C0B  RGB 7,12,11  ·  fundo de tudo, contorno da legenda
+Painel           #0A0F0E  RGB 10,15,14  ·  cartões e caixas sobre o preto
+Branco legenda   #F5F5F5  RGB 245,245,245  ·  texto da legenda e títulos
+Verde Boost      #43E3C8  RGB 67,227,200  ·  1 palavra de destaque por legenda
+Verde escuro     #0EA08B  RGB 14,160,139  ·  fim do degradê do verde, linhas
+Verde profundo   #06231D  RGB 6,35,29  ·  fundo de caixa com destaque
+Claro            #F0F4F3  RGB 240,244,243  ·  fundo claro, quando precisar
+Cinza            #96969E  RGB 150,150,158  ·  texto secundário, crédito
+Vermelho         #FF4444  RGB 255,68,68  ·  só dado negativo (queda, prejuízo)
